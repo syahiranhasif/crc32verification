@@ -1,6 +1,6 @@
 {
-    "version": "v1.4.3",
-    "download_url": "https://github.com/syahiranhasif/Crc32verification/releases/latest/download/CRC32_verification.exe",
+ "v1.4.3",
 }
+
 
 
